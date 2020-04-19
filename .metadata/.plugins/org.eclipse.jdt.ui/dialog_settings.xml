@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.uiformatter_page.modify_dialog_tab_page.last_focus_index" value="-1"/>
+	<item key="clean_up_save_particpant_modify_dialog.last_focus" value="4"/>
+	<item key="clean_up_save_particpant_modify_dialog.preferred_width" value="921"/>
+	<item key="clean_up_save_particpant_modify_dialog.preferred_height" value="729"/>
+	<item key="clean_up_save_particpant_modify_dialog.preferred_x" value="519"/>
+	<item key="clean_up_save_particpant_modify_dialog.preferred_y" value="23"/>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item key="pageIndex" value="0"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item key="create_constructor" value="false"/>
+		<item key="create_unimplemented" value="true"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item key="index" value="0"/>
+	</section>
+</section>

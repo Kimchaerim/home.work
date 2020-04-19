@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;NewFile.html&apos; to &apos;html2&apos;" description="Move &apos;NewFile.html&apos; to &apos;html2&apos;" destination="/html2" element1="/gugudan/WebContent/WEB-INF/NewFile.html" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1586567604055" updateReferences="true"/>
+</session>

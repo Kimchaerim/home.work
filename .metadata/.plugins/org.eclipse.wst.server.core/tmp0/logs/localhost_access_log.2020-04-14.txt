@@ -1,0 +1,14 @@
+127.0.0.1 - - [14/Apr/2020:14:23:15 +0900] "GET / HTTP/1.1" 404 750
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:14:23:16 +0900] "GET /lecture1/form01/text1.jsp HTTP/1.1" 200 917
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:14:36:16 +0900] "GET /lecture1/form01/text1.jsp HTTP/1.1" 200 853
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:14:42:55 +0900] "GET /lecture1/form01/text1.jsp HTTP/1.1" 200 853
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:14:44:02 +0900] "GET /lecture1/form01/text1action.jsp HTTP/1.1" 200 917
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:14:44:05 +0900] "POST /lecture1/form01/text1action.jsp HTTP/1.1" 200 917
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:14:44:11 +0900] "GET /lecture1/form01/text1.jsp HTTP/1.1" 200 853
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:14:44:13 +0900] "POST /lecture1/form01/text1action.jsp HTTP/1.1" 200 917
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:14:45:01 +0900] "GET /lecture1/form01/text1.jsp HTTP/1.1" 200 915
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:14:45:02 +0900] "POST /lecture1/form01/text1action.jsp HTTP/1.1" 200 917
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:14:45:04 +0900] "POST /lecture1/form01/text1action.jsp HTTP/1.1" 200 917
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:14:45:48 +0900] "GET /lecture1/form01/text1action.jsp HTTP/1.1" 200 732
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:14:45:52 +0900] "GET /lecture1/form01/text1.jsp HTTP/1.1" 200 915
+0:0:0:0:0:0:0:1 - - [14/Apr/2020:14:45:53 +0900] "POST /lecture1/form01/text1action.jsp HTTP/1.1" 200 799

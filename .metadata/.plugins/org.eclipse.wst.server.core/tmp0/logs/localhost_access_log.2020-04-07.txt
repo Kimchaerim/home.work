@@ -1,0 +1,10 @@
+127.0.0.1 - - [07/Apr/2020:17:32:59 +0900] "GET / HTTP/1.1" 404 750
+0:0:0:0:0:0:0:1 - - [07/Apr/2020:17:32:59 +0900] "GET /lecture1/hello.html HTTP/1.1" 200 117
+0:0:0:0:0:0:0:1 - - [07/Apr/2020:17:33:09 +0900] "GET /lecture1/hello.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Apr/2020:17:33:17 +0900] "GET /lecture1/hello.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Apr/2020:17:33:35 +0900] "GET /html2/2/hello.html HTTP/1.1" 200 809
+0:0:0:0:0:0:0:1 - - [07/Apr/2020:17:33:56 +0900] "GET /lecture1/jsp01/hello.html HTTP/1.1" 200 172
+0:0:0:0:0:0:0:1 - - [07/Apr/2020:17:36:43 +0900] "GET /lecture1/jsp01/hello.html HTTP/1.1" 200 172
+0:0:0:0:0:0:0:1 - - [07/Apr/2020:17:38:52 +0900] "GET /lecture1/jsp01/hello.jsp HTTP/1.1" 200 118
+0:0:0:0:0:0:0:1 - - [07/Apr/2020:17:49:07 +0900] "GET /lecture1/jsp01/NewFile.jsp HTTP/1.1" 200 118
+0:0:0:0:0:0:0:1 - - [07/Apr/2020:17:49:22 +0900] "GET /lecture1/jsp01/NewFile.jsp HTTP/1.1" 200 173

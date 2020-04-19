@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+/Users/kimchaerim/Desktop/무제 폴더 2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2089348824.index
+1372516276.index
+3693014025.index
+3161495139.index
+628738009.index
+3192639292.index
+1270296671.index
+3841448470.index
+1349239016.index
