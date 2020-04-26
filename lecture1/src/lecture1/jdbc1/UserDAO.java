@@ -27,7 +27,6 @@ public class UserDAO {
 				user.setEnabled(resultSet.getBoolean("enabled"));
 				user.setUserType(resultSet.getString("userType"));
 
-
 				list.add(user);
 			}
 			return list;
