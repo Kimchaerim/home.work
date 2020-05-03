@@ -54,7 +54,7 @@ td {
 			<tr>
 				<td>학과명</td>
 				<td><%=user.getDepartmentName()%></td>
-			</tr>
+			</tr> 
 			<tr>
 				<td>이메일</td>
 				<td><%=user.getEmail()%></td>
