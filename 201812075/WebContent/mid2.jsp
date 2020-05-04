@@ -27,9 +27,9 @@ if (s == null)
 	<form>
 		<div>
 		
-	<input id = "s" type="radio" value="one" <%= "one".equals(1) ? "selected" : "" %>> <label>one</label>
-	<input id = "s" type="radio" value="two"  <%= "two".equals(1) ? "selected" : "" %>> <label>two</label> 
-	<input id = "s" type="radio" value="three" <%= "three".equals(1) ? "selected" : "" %>> <label>three</label>
+	<input id = "s" type="radio" value="one" <%= "one".equals(s) ? "selected" : "" %>> <label>one</label>
+	<input id = "s" type="radio" value="two"  <%= "two".equals(s) ? "selected" : "" %>> <label>two</label> 
+	<input id = "s" type="radio" value="three" <%= "three".equals(s) ? "selected" : "" %>> <label>three</label>
 	
 	
 		
