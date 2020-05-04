@@ -1,0 +1,45 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+div {
+	margin-bottom: 10px;
+}
+
+input, select {
+	padding: 5px;
+}
+
+button {
+	padding: 0.4em 2em;
+}
+</style>
+</head>
+<%
+String s = request.getParameter("n");
+if (s == null)
+	s = "one";
+%>
+<body>
+	<form>
+		<div>
+		
+	<input id = "s" type="radio" value="one" <%= "one".equals(1) ? "selected" : "" %>> <label>one</label>
+	<input id = "s" type="radio" value="two"  <%= "two".equals(1) ? "selected" : "" %>> <label>two</label> 
+	<input id = "s" type="radio" value="three" <%= "three".equals(1) ? "selected" : "" %>> <label>three</label>
+	
+	
+		
+		</div>
+		<div>
+			<input type="text" value="<%=s%>" />
+		</div>
+		<div>
+			<button type="submit">Ok</button>
+		</div>
+	</form>
+</body>
+</html>
