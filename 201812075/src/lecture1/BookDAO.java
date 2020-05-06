@@ -22,7 +22,7 @@ public class BookDAO {
 	book.setId(resultSet.getInt("id"));
 	book.setTitle(resultSet.getString("title"));
 	book.setWriter(resultSet.getString("writer"));
-	book.setCategory(resultSet.getString("caterory"));
+	book.setCategory(resultSet.getString("category"));
 	book.setPrice(resultSet.getInt("price"));
 	book.setPublisher(resultSet.getString("publisher"));
 	list.add(book); }
