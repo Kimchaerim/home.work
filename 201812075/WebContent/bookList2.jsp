@@ -53,12 +53,12 @@ td:nth-child(4) {
 				<tr>
 					<th>id</th>
 					<th>제목</th>
-					<th>저자</th>
+					<th>저자</th> 
 					<th>카테고리</th>
 					<th>가격</th>
 					<th>출판사</th>
 
-				</tr>
+				</tr> 
 			</thead>
 			<tbody>
 				<%

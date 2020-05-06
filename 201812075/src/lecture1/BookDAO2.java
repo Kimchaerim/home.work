@@ -20,7 +20,7 @@ public class BookDAO2 {
 	{ Book book = new Book();
 	book.setId(resultSet.getInt("id"));
 	book.setTitle(resultSet.getString("title"));
-	book.setWriter(resultSet.getString("writer"));
+	book.setWriter(resultSet.getString("writer" ));
 	book.setCategory(resultSet.getString("caterory"));
 	book.setPrice(resultSet.getInt("price"));
 	book.setPublisher(resultSet.getString("publisher"));

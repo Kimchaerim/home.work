@@ -8,6 +8,7 @@ import javax.naming.NamingException;
 import javax.sql.DataSource;
 
 public class DB {
+
 	static DataSource dataSource = null;
 
 	public static Connection getConnection(String book) throws SQLException, NamingException {

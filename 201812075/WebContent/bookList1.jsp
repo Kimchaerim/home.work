@@ -47,8 +47,8 @@ td:nth-child(4) {
 					<th>출판사</th>
 					
 				</tr>
-			</thead>
-		<tbody>
+			</thead> 
+		<tbody> 
 				<%
 		for (Book book : list) {
 				%>
