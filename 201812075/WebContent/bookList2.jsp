@@ -3,10 +3,10 @@
 <%@ page import="java.util.List, lecture1.*"%>
 
 <%
-	String Text = request.getParameter("Text");
+String Text = request.getParameter("Text");
 if (Text == null)
 	Text = "";
-List<Book> list = BookDAO.findByName(Text);
+List<Book> list = BookDAO2.findByName(Text);
 %>
 
 <!DOCTYPE html>
@@ -62,7 +62,7 @@ td:nth-child(4) {
 			</thead>
 			<tbody>
 				<%
-					for (Book book : list) {
+			for (Book book : list) {
 				%>
 				<tr>
 					<td><%=book.getId()%></td>
