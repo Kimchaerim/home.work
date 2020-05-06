@@ -35,7 +35,7 @@ if (s == null)
 		
 		</div>
 		<div>
-			<input type="text" value="<%=s%>" />
+			<input type="text" value=<%=s%> />
 		</div>
 		<div>
 			<button type="submit">Ok</button>

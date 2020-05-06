@@ -34,8 +34,6 @@ if (s == null)
 			<input id="s" type="radio" value="three"
 				<%="three".equals(s) ? "selected" : ""%>> <label>three</label>
 
-
-
 		</div>
 		<div>
 			<select name="s">
